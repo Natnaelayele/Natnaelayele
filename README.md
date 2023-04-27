@@ -2,7 +2,7 @@
 - 👀 I’m interested in Dynamic Programming
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate School Projects
-- 📫 How to reach me 
+- 📫 How to reach me Go to Tim Barens
 
 <!---
 Natnaelayele/Natnaelayele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
